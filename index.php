@@ -1,3 +1,3 @@
 <?php
-
-	echo "Começou o Git";
+/*Primeira linha de código*/
+echo "Começou o Git";
